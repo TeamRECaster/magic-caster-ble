@@ -1,6 +1,6 @@
 [project]
 name = "magic-caster-ble"
-version = "0.1.0"
+version = "0.1.1"
 description = "BLE library for interacting with the HP Magic Caster Wand"
 readme = "README.md"
 requires-python = ">=3.13"
